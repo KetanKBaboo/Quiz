@@ -27,7 +27,7 @@
       margin: 10px;
   }
   
-  button:hover,:active {
+  button:hover{
     cursor: pointer;
     background-color: darkslategray;
   }  
